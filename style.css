@@ -1,0 +1,36 @@
+@meta charset "UTF-8";
+
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(255, 187, 0);
+    color: white;
+}
+
+.quem-somos {
+    background-color: rgba(17, 16, 16, 0.63);
+    color:white;
+}
+.cor {
+    border: 1px solid white;
+    border-radius: 80%;
+    background-color: white;
+}
+
+.margin { 
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: rgba(0, 0, 0, 0.849) ;
+    color: white;
+    padding: 50px 50px 50px 50px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
